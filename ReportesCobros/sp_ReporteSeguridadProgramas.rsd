@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSet Name="DataSet1">
+    <Query>
+      <DataSourceReference>BDCobros</DataSourceReference>
+      <CommandType>StoredProcedure</CommandType>
+      <CommandText>sp_ReporteSeguridadProgramas</CommandText>
+    </Query>
+    <Fields>
+      <Field Name="NombreModulo">
+        <DataField>NombreModulo</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="Codigo">
+        <DataField>Codigo</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="Inactivo">
+        <DataField>Inactivo</DataField>
+        <rd:TypeName>System.Boolean</rd:TypeName>
+      </Field>
+      <Field Name="FechaCreado">
+        <DataField>FechaCreado</DataField>
+        <rd:TypeName>System.DateTime</rd:TypeName>
+      </Field>
+      <Field Name="FechaInactivado">
+        <DataField>FechaInactivado</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="NombrePermiso">
+        <DataField>NombrePermiso</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="DescripcionPermiso">
+        <DataField>DescripcionPermiso</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>

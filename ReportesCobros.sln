@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ReportesMunicipalidadAlajuela", "ReportesMunicipalidadAlajuela\ReportesMunicipalidadAlajuela.rptproj", "{98391D12-D390-4CA6-8BEE-A0A55F0178A7}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ReportesCobros", "ReportesCobros\ReportesCobros.rptproj", "{4ACD6358-BE61-403B-97EC-134F4D0BFBE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98391D12-D390-4CA6-8BEE-A0A55F0178A7}.Debug|Default.ActiveCfg = Debug
+		{98391D12-D390-4CA6-8BEE-A0A55F0178A7}.Debug|Default.Build.0 = Debug
+		{98391D12-D390-4CA6-8BEE-A0A55F0178A7}.Debug|Default.Deploy.0 = Debug
+		{98391D12-D390-4CA6-8BEE-A0A55F0178A7}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{98391D12-D390-4CA6-8BEE-A0A55F0178A7}.DebugLocal|Default.Build.0 = DebugLocal
+		{98391D12-D390-4CA6-8BEE-A0A55F0178A7}.Release|Default.ActiveCfg = Release
+		{98391D12-D390-4CA6-8BEE-A0A55F0178A7}.Release|Default.Build.0 = Release
+		{98391D12-D390-4CA6-8BEE-A0A55F0178A7}.Release|Default.Deploy.0 = Release
+		{4ACD6358-BE61-403B-97EC-134F4D0BFBE7}.Debug|Default.ActiveCfg = Debug
+		{4ACD6358-BE61-403B-97EC-134F4D0BFBE7}.Debug|Default.Build.0 = Debug
+		{4ACD6358-BE61-403B-97EC-134F4D0BFBE7}.Debug|Default.Deploy.0 = Debug
+		{4ACD6358-BE61-403B-97EC-134F4D0BFBE7}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{4ACD6358-BE61-403B-97EC-134F4D0BFBE7}.DebugLocal|Default.Build.0 = DebugLocal
+		{4ACD6358-BE61-403B-97EC-134F4D0BFBE7}.Release|Default.ActiveCfg = Release
+		{4ACD6358-BE61-403B-97EC-134F4D0BFBE7}.Release|Default.Build.0 = Release
+		{4ACD6358-BE61-403B-97EC-134F4D0BFBE7}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

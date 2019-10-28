@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BDCobros">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=dbsqldesa;Initial Catalog=Cobros</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>dfd5e99d-e512-45e3-952e-980915ca2373</DataSourceID>
+</RptDataSource>
